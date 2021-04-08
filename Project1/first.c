@@ -4,7 +4,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+//hola
 int main() {
 	int a, b;
 	printf("Enter 2 positive integers: ");
