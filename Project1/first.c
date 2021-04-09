@@ -5,6 +5,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 //hola
+//comentaria para analizar conflicto con vs 
 int main() {
 	int a, b;
 	printf("Enter 2 positive integers: ");
