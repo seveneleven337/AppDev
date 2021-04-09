@@ -26,5 +26,7 @@ int main() {
 		}
 	}
 	//also added from vs
+	//hello
+	//bye
 	return 0;
 }
